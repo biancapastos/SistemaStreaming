@@ -1,0 +1,2 @@
+Projeto final do 1º semestre da matéria de Algoritmos 1 do curso de Bacharelado em Ciência da Computação da Unesp - Rio Claro.
+Utiliza conhecimentos de estruturas condicionais, estruturas de repetição, vetores, matrizes, registros, enumerações, união e subrotinas em C.
