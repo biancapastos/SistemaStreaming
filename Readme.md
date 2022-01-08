@@ -1,5 +1,5 @@
 Projeto final do 1º semestre da matéria de Algoritmos 1 do curso de Bacharelado em Ciência da Computação da Unesp - Rio Claro.
-Utiliza conhecimentos de estruturas condicionais, estruturas de repetição, vetores, matrizes, ponteiro, registros, enumerações, união e subrotinas em C.
+Utiliza conhecimentos de estruturas condicionais, estruturas de repetição, vetores, matrizes, ponteiros, registros(structs), enumerações, união e subrotinas em C.
 ##
 Funcionalidades do sistema:
   <br />
@@ -11,9 +11,9 @@ Funcionalidades do sistema:
 
   <li>Cancelar contrato de um cliente.</li>
 
-  <li>Gerar fatura (do plano de apenas um cliente ou de todos os clientes cadastrados).</li>
+  <li>Gerar fatura (do plano de apenas um cliente ou fatura mensal de todos os clientes cadastrados).</li>
 
-  <li>Listar dados de um cliente específico, histórico dos filmes assistidos por um cliente e listar clientes que excederam a quantidade máxima de filmes assistidos no plano básico (taxa extra cobrada).</li>
+  <li>Listar dados de um cliente específico; histórico dos filmes assistidos por um cliente e listar clientes que excederam a quantidade máxima de filmes assistidos no plano básico (taxa extra cobrada).</li>
 
   <li> Mostrar com que frequência os filmes foram assistidos (popularidade). </li>
 
